@@ -1,2 +1,2 @@
 # test-mob-app
-мобильное приложение test
+mobile application test
